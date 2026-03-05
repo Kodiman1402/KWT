@@ -1,0 +1,17 @@
+﻿# Logs
+*.log
+KWT_*.log
+KWT_*.html
+KWT_CRASH.log
+
+# Kompilierte EXE (nur in /releases)
+*.exe
+!releases/*.exe
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# PowerShell
+*.ps1xml
